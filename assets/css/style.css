@@ -608,7 +608,7 @@ p{
 }
 .services_section .services_box_content .services_box_upper_portion{
     margin-bottom: 10px;
-    animation: float_img 6s ease-in-out infinite;
+    /* animation: float_img 6s ease-in-out infinite; */
 }
 .services_section .services_box_content .services_box_upper_portion img{
     transition: all 0.3s ease-in-out;
